@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome! I Am Kunal</h1>
 <h3 align="center">Just Raw Programming Skill</h3>
 
-- 🌱 I’m currently learning c++ **for advance modles**
+- 🌱 I’m currently learning c++ **for advance and fast models**
 
 - ⚡ Fun fact **i love sports too 🎀**
 
